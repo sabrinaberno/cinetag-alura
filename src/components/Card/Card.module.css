@@ -17,10 +17,6 @@
     padding: 0 1em;
 }
 
-.favoritar {
-    width: 25px;
-}
-
 .link {
     text-decoration: none;
     color: var(--preto);

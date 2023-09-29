@@ -15,10 +15,10 @@ function AppRoutes() {
                 <Route path="/" element={<PaginaBase />}>
                     // rotas aninhadas =  várias rotas dentro de uma única rota
                     <Route index element={<Inicio />}></Route>
-                        <Route path="favoritos" element={<Favoritos />}></Route>
-                        <Route path=":id" element={<Player />}></Route>
-                        <Route path="*" element={<NaoEncontrada />}></Route>
-                    </Route>
+                    <Route path="favoritos" element={<Favoritos />}></Route>
+                    <Route path=":id" element={<Player />}></Route>
+                    <Route path="*" element={<NaoEncontrada />}></Route>
+                </Route>
             </Routes>
         </BrowserRouter>
     )

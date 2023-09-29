@@ -7,7 +7,6 @@ import styles from './Inicio.module.css';
 function Inicio() {
     return (
         <>
-        
             <Banner imagem="home" />
             <Titulo>
                 <h1>Um lugar para guardar seus víderos e filmes!</h1>
@@ -17,10 +16,7 @@ function Inicio() {
                     return <Card {...video} key={video.id} />
                 })}
             </section>
-            
         </>
-        
-        
     )
 }
 

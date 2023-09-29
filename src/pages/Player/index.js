@@ -25,8 +25,8 @@ function Player() {
                 <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/BwRxBGsT_f0"
-                    title="YouTube video player"
+                    src={video.link}
+                    title={video.titulo}
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>
