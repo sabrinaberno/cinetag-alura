@@ -1,3 +1,11 @@
+# Cinetag Alura
+
+Este projeto foi criado a partir do curso da Alura - React:Praticando com Js, com a instrutora Mônica Hillman, onde a ideia é a criação de uma plataforma de compartilhamento de filmes que possibilita a ação tanto de assistir quanto de favoritar um item.
+
+![5dC6Zeka](https://github.com/sabrinaberno/cinetag-alura/assets/86732411/1cc43e2a-e4b2-4472-bd36-6af5570763ce)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
