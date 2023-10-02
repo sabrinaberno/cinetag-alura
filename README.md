@@ -2,7 +2,8 @@
 
 Este projeto foi criado a partir do curso da Alura - React:Praticando com Js, com a instrutora Mônica Hillman, onde a ideia é a criação de uma plataforma de compartilhamento de filmes que possibilita a ação tanto de assistir quanto de favoritar um item.
 
-![5dC6Zeka](https://github.com/sabrinaberno/cinetag-alura/assets/86732411/1cc43e2a-e4b2-4472-bd36-6af5570763ce)
+<img src="https://github.com/sabrinaberno/cinetag-alura/assets/86732411/1cc43e2a-e4b2-4472-bd36-6af5570763ce****" width="100%"  />
+
 
 
 
